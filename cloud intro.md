@@ -1,8 +1,10 @@
 **CLOUD**
 
-1.Cloud is place where we can take resources on rent. 
-2.We can use any resource and after pay for that resource.
-3.We can store anything in cloud.
+ 1.Cloud is place where we can take resources on rent. 
+ 
+ 2.We can use any resource and after pay for that resource.
+
+ 3.We can store anything in cloud.
 
 **Advantages Of Cloud**
 1. It is faster to access any file stored in cloud.
