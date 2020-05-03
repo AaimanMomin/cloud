@@ -5,7 +5,7 @@ Relational Database Service is one of the *Amazone Web Service*.
 It is a web service running "in the cloud" designed to simplify the setup , operation, and scaling of a relational database.
   
 ---
-**Steps to create RDS Database instance 
+**Steps to create RDS Database instance** 
 
  1.Sign in to AWS Console and open Amazone RDS Console.
 
