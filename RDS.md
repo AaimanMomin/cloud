@@ -39,4 +39,5 @@ It is a web service running "in the cloud" designed to simplify the setup , oper
  10.In **Connectivity** section open **Aditional connectivity configuration** and set the values as per your need
        **public access** -> yes
        **Database ports** -> mostly kepp default.
+       
  11. After selecting all the options needed hit **Create database** . This will create your RDS in AWS.
