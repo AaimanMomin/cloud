@@ -23,10 +23,15 @@ It is a web service running "in the cloud" designed to simplify the setup , oper
  7.In the **Templete** section , choose **Dev/Test**.
 
  8.In **Settings** section, set these values:
+ 
       * **DB instance identifier** - `give name to your db`
+      
       * **Master Username** - `give username`
+      
       * **Auto generate a password** - Dissable the option
+      
       * **Master password** - Create a password
+      
       * *Confirm password* - Retype the password
 
  9.In the **storage** and **Availablity & Durablity** sections, use the default values.
