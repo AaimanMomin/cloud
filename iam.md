@@ -1,4 +1,4 @@
-#IAM ROLES
+**IAM ROLES**
 
 ---
 
@@ -17,11 +17,11 @@ ec2, which allows the communication between ec2 and s3 bucket or other service.
  IAM Roles is secure way to grant permission to entities that you trust.
 Example  entities includes the following
  
-*IAM user in another account.
+* IAM user in another account.
 
-*Application code running on an EC2 instance that needs to perform action on AWS resources.
+* Application code running on an EC2 instance that needs to perform action on AWS resources.
 
-*An AWS service that needs to act on resources in your account to provide the features.
+* An AWS service that needs to act on resources in your account to provide the features.
 
 * User from a computer directory who use identity federation with SAMI.
 
