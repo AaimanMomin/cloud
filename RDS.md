@@ -14,6 +14,7 @@ It is a web service running "in the cloud" designed to simplify the setup , oper
  3.In navigation pane choose **Database**.
 
  4.Chosse **Create database**.
+   ![](img/RDS1.PNG)
 
  5.On the **Create database** page, shown following, select **Standard Create** option which will allow you to select all the settings
    as per your need or choose **Easy Create** where AWS will give you some of the options by default selected.
