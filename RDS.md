@@ -18,12 +18,15 @@ It is a web service running "in the cloud" designed to simplify the setup , oper
 
  5.On the **Create database** page, shown following, select **Standard Create** option which will allow you to select all the settings
    as per your need or choose **Easy Create** where AWS will give you some of the options by default selected.
-
+    ![](img/rds2.PNG)
+    
  6.In **Engine Options** choose the the engine you want to create database of.
 
  7.In the **Templete** section , choose **Dev/Test**.
+     ![](img/rds3.PNG)
 
  8.In **Settings** section, set these values:
+      ![](img/rds4.PNG)
  
   * **DB instance identifier** - `give name to your db`
       
@@ -42,3 +45,4 @@ It is a web service running "in the cloud" designed to simplify the setup , oper
        **Database ports** -> mostly kepp default.
        
  11. After selecting all the options needed hit **Create database** . This will create your RDS in AWS.
+   ![](img/rds5.PNG)
