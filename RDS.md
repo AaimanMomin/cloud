@@ -27,7 +27,7 @@ It is a web service running "in the cloud" designed to simplify the setup , oper
 
  8.In **Settings** section, set these values:
  
-      ![](img/rds4.PNG)
+    ![](img/rds4.PNG)
  
   * **DB instance identifier** - `give name to your db`
       
