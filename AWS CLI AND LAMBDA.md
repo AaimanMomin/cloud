@@ -14,13 +14,18 @@
 
  4. Go to aws educate account and click on account details
     AWS CLI `show`
+    
     Click on show button and copy all.
     Now go to user folder and search for credential file and clear all credential file and paste the things copied from aws details.
  
  5. Now go to command prompt 
+ 
     AWS Access Key Id: <copy paste key id from aws account details>
+ 
     AWS Secret Access Key: <copy paste secret from the same>
+ 
     Default Region Name : us-east-1
+    
     Default output formate : json
 
  6. aws s3 ls
@@ -41,9 +46,10 @@
 
 ## S3
 ---
-  
    In s3 bucket everything is an object inside bucket. .ie. folder, file, etc.
+   
 Object are immutable .i.e object cannot be updated/changed.
+
 So you have to delete and upload the updated one.
 
 
@@ -78,11 +84,14 @@ It also contains *scalability* and *parallelization*.
 **Scalablity**
    
     Scale up and Scale down is automatic
+    
 eg: 1. 1GB memory, 2 Core - 30 sec
+
     2. updated -> 2GB , 1 Core - 10 sec
 
 **Parallelization** 
 
-    On every execution request, if simultaneous 1 million requests occurs **Lambda* will handel every request simultaneously.
+    On every execution request, if simultaneous 1 million requests occurs **Lambda* will handel every 
+    request simultaneously.
 
    
