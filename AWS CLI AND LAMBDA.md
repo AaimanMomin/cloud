@@ -76,14 +76,14 @@ Even if 100% utilization is not done then also you have to pay full charges of 1
 
    3.When code in running mode - Cost
 
-    Cost is calculated on usage of `(CPU + RAM) * TIME = CHARGE`
+    Cost is calculated on usage of `(CPU + RAM) * TIME = CHARGE`.
  
 No charges of OS. 
 It also contains *scalability* and *parallelization*.
   
 **Scalablity**
    
-    Scale up and Scale down is automatic
+    Scale up and Scale down is automatic.
     
 eg: 1. 1GB memory, 2 Core - 30 sec
 
@@ -91,7 +91,7 @@ eg: 1. 1GB memory, 2 Core - 30 sec
 
 **Parallelization** 
 
-    On every execution request, if simultaneous 1 million requests occurs **Lambda* will handel every 
+    On every execution request, if simultaneous 1 million requests occurs **Lambda** will handel every 
     request simultaneously.
 
    
