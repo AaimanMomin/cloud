@@ -91,7 +91,7 @@ eg: 1. 1GB memory, 2 Core - 30 sec
 
 **Parallelization** 
 
-    On every execution request, if simultaneous 1 million requests occurs **Lambda** will handel every 
+    On every execution request, if simultaneous 1 million requests occurs Lambda will handel every 
     request simultaneously.
 
    
