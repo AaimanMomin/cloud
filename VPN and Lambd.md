@@ -17,6 +17,7 @@ Availablity Zone contains unique subnet each.
 **Subnet** contains *Rout Table-* which actully work as router .
 It is used to connect with world using *INTERNET GATEWAYS*.
 Internet Gateways provide a way to connect to internet.
+
 ---
 
 
