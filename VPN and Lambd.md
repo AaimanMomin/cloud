@@ -12,8 +12,6 @@ The Internet service provided by Router is used by the customer by LAN connectio
 ---
 ` services ->VPC ->Isolated Cloud Resources ->VPC ->Create new VPC. `
 
----
-
 VPC contains **subnets** they are attached to VPC.
 Availablity Zone contains unique subnet each.
 **Subnet** contains *Rout Table-* which actully work as router .
@@ -26,6 +24,7 @@ Internet Gateways provide a way to connect to internet.
 ---
  
 Cloud watch and Cloud trail both are service of AWS .
+
  
 **Cloud Watch**
 ---
@@ -73,9 +72,10 @@ You can pass any command or all shell script can be passed depending on which OS
 
 Feedback commands -> yum update
 
-                  -> yum update -y [y stands for yes]
+                   -> yum update -y [y stands for yes]
   
 store -> Nav/lib/cloud/instances
+
 ---
 
 **Serverless [Lambda]**
